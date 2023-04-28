@@ -1,0 +1,8 @@
+latex
+latex/*
+html
+html/*
+Doxyfile
+doxyfile
+*.txt
+*.csv
